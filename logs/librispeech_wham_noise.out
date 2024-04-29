@@ -1,0 +1,100 @@
+  0%|          | 0/85617 [00:00<?, ?it/s]  0%|          | 1/85617 [01:44<2488:20:34, 104.63s/it]  2%|▏         | 2001/85617 [01:48<53:44, 25.93it/s]     2%|▏         | 2001/85617 [01:59<53:44, 25.93it/s] 14%|█▍        | 12001/85617 [03:22<15:57, 76.92it/s] 15%|█▌        | 13001/85617 [03:27<14:38, 82.65it/s] 20%|█▉        | 17001/85617 [03:31<08:51, 129.14it/s] 21%|██        | 18001/85617 [03:31<07:42, 146.15it/s] 25%|██▍       | 21001/85617 [03:34<05:09, 208.92it/s] 26%|██▌       | 22001/85617 [03:35<04:36, 229.81it/s] 26%|██▌       | 22001/85617 [03:50<04:36, 229.81it/s] 28%|██▊       | 24001/85617 [05:07<16:40, 61.60it/s]  29%|██▉       | 25001/85617 [05:11<14:14, 70.95it/s] 30%|███       | 26001/85617 [05:14<11:58, 82.95it/s] 37%|███▋      | 32001/85617 [05:18<04:23, 203.19it/s] 39%|███▊      | 33001/85617 [05:19<03:50, 227.83it/s] 40%|███▉      | 34001/85617 [05:24<03:53, 221.34it/s] 40%|███▉      | 34001/85617 [05:40<03:53, 221.34it/s] 42%|████▏     | 36001/85617 [06:49<13:20, 61.99it/s]  44%|████▍     | 38001/85617 [06:53<09:22, 84.63it/s] 46%|████▌     | 39001/85617 [06:54<07:46, 100.03it/s] 47%|████▋     | 40001/85617 [06:58<06:38, 114.54it/s] 48%|████▊     | 41001/85617 [06:59<05:11, 143.25it/s] 49%|████▉     | 42001/85617 [07:00<03:56, 184.18it/s] 50%|█████     | 43001/85617 [07:02<03:17, 215.82it/s] 51%|█████▏    | 44001/85617 [07:03<02:27, 282.82it/s] 53%|█████▎    | 45001/85617 [07:07<02:34, 263.27it/s] 55%|█████▍    | 47001/85617 [07:09<01:41, 381.32it/s] 55%|█████▍    | 47001/85617 [07:20<01:41, 381.32it/s] 56%|█████▌    | 48001/85617 [08:28<13:02, 48.05it/s]  57%|█████▋    | 49001/85617 [08:32<10:03, 60.66it/s] 58%|█████▊    | 50001/85617 [08:34<07:32, 78.75it/s] 60%|█████▉    | 51001/85617 [08:35<05:26, 106.10it/s] 61%|██████    | 52001/85617 [08:46<05:31, 101.35it/s] 64%|██████▍   | 55001/85617 [08:48<02:30, 203.44it/s] 67%|██████▋   | 57001/85617 [08:49<01:35, 298.48it/s] 69%|██████▉   | 59001/85617 [08:50<01:05, 407.67it/s] 69%|██████▉   | 59001/85617 [09:10<01:05, 407.67it/s] 70%|███████   | 60001/85617 [10:01<06:38, 64.33it/s]  71%|███████   | 61001/85617 [10:09<05:39, 72.42it/s] 72%|███████▏  | 62001/85617 [10:17<04:53, 80.36it/s] 74%|███████▎  | 63001/85617 [10:20<03:50, 98.06it/s] 75%|███████▍  | 64001/85617 [10:24<03:01, 119.40it/s] 76%|███████▌  | 65001/85617 [10:27<02:24, 142.67it/s] 77%|███████▋  | 66001/85617 [10:30<01:56, 168.43it/s] 79%|███████▉  | 68001/85617 [10:31<01:01, 287.06it/s] 82%|████████▏ | 70001/85617 [10:33<00:39, 396.50it/s] 83%|████████▎ | 71001/85617 [10:35<00:36, 405.20it/s] 83%|████████▎ | 71001/85617 [10:50<00:36, 405.20it/s] 84%|████████▍ | 72001/85617 [11:50<04:26, 51.14it/s]  85%|████████▌ | 73001/85617 [11:55<03:19, 63.17it/s] 86%|████████▋ | 74001/85617 [12:02<02:36, 74.19it/s] 88%|████████▊ | 75001/85617 [12:05<01:53, 93.28it/s] 89%|████████▉ | 76001/85617 [12:11<01:30, 106.25it/s] 91%|█████████ | 78001/85617 [12:12<00:40, 185.92it/s] 93%|█████████▎| 80001/85617 [12:16<00:22, 244.93it/s] 93%|█████████▎| 80001/85617 [12:30<00:22, 244.93it/s] 98%|█████████▊| 84001/85617 [12:47<00:09, 168.12it/s]100%|██████████| 85617/85617 [12:47<00:00, 111.61it/s]
+Completed the creation of noisy train-clean-100 partition of LibriSpeech
+  0%|          | 0/7860 [00:00<?, ?it/s]  0%|          | 0/7860 [00:11<?, ?it/s]
+concurrent.futures.process._RemoteTraceback: 
+"""
+Traceback (most recent call last):
+  File "/opt/conda/envs/asr/lib/python3.9/concurrent/futures/process.py", line 246, in _process_worker
+    r = call_item.fn(*call_item.args, **call_item.kwargs)
+  File "/opt/conda/envs/asr/lib/python3.9/concurrent/futures/process.py", line 205, in _process_chunk
+    return [fn(*args) for args in chunk]
+  File "/opt/conda/envs/asr/lib/python3.9/concurrent/futures/process.py", line 205, in <listcomp>
+    return [fn(*args) for args in chunk]
+  File "/home/ubuntu/asr/generate_noisy_librispeech.py", line 67, in apply_noise
+    s1, rate1 = sf.read(sound_path1)
+  File "/opt/conda/envs/asr/lib/python3.9/site-packages/soundfile.py", line 288, in read
+    data = f.read(frames, dtype, always_2d, fill_value, out)
+  File "/opt/conda/envs/asr/lib/python3.9/site-packages/soundfile.py", line 891, in read
+    out = self._create_empty_array(frames, always_2d, dtype)
+  File "/opt/conda/envs/asr/lib/python3.9/site-packages/soundfile.py", line 1323, in _create_empty_array
+    return np.empty(shape, dtype, order='C')
+ValueError: array is too big; `arr.size * arr.dtype.itemsize` is larger than the maximum possible size.
+"""
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/home/ubuntu/asr/generate_noisy_librispeech.py", line 79, in <module>
+    main(args)
+  File "/home/ubuntu/asr/generate_noisy_librispeech.py", line 47, in main
+    augment_noise(sound_path_libritt, sound_paths_tt)
+  File "/home/ubuntu/asr/generate_noisy_librispeech.py", line 60, in augment_noise
+    tqdm.contrib.concurrent.process_map(
+  File "/opt/conda/envs/asr/lib/python3.9/site-packages/tqdm/contrib/concurrent.py", line 105, in process_map
+    return _executor_map(ProcessPoolExecutor, fn, *iterables, **tqdm_kwargs)
+  File "/opt/conda/envs/asr/lib/python3.9/site-packages/tqdm/contrib/concurrent.py", line 51, in _executor_map
+    return list(tqdm_class(ex.map(fn, *iterables, chunksize=chunksize), **kwargs))
+  File "/opt/conda/envs/asr/lib/python3.9/site-packages/tqdm/std.py", line 1178, in __iter__
+    for obj in iterable:
+  File "/opt/conda/envs/asr/lib/python3.9/concurrent/futures/process.py", line 562, in _chain_from_iterable_of_lists
+    for element in iterable:
+  File "/opt/conda/envs/asr/lib/python3.9/concurrent/futures/_base.py", line 609, in result_iterator
+    yield fs.pop().result()
+  File "/opt/conda/envs/asr/lib/python3.9/concurrent/futures/_base.py", line 446, in result
+    return self.__get_result()
+  File "/opt/conda/envs/asr/lib/python3.9/concurrent/futures/_base.py", line 391, in __get_result
+    raise self._exception
+ValueError: array is too big; `arr.size * arr.dtype.itemsize` is larger than the maximum possible size.
+  0%|          | 0/7860 [00:00<?, ?it/s]  0%|          | 1/7860 [00:43<94:04:31, 43.09s/it] 38%|███▊      | 3001/7860 [00:43<00:50, 96.98it/s]100%|██████████| 7860/7860 [00:43<00:00, 179.15it/s]
+Completed the creation of noisy test-clean partition of LibriSpeech
+  0%|          | 0/8109 [00:00<?, ?it/s]  0%|          | 0/8109 [00:12<?, ?it/s]
+concurrent.futures.process._RemoteTraceback: 
+"""
+Traceback (most recent call last):
+  File "/opt/conda/envs/asr/lib/python3.9/concurrent/futures/process.py", line 246, in _process_worker
+    r = call_item.fn(*call_item.args, **call_item.kwargs)
+  File "/opt/conda/envs/asr/lib/python3.9/concurrent/futures/process.py", line 205, in _process_chunk
+    return [fn(*args) for args in chunk]
+  File "/opt/conda/envs/asr/lib/python3.9/concurrent/futures/process.py", line 205, in <listcomp>
+    return [fn(*args) for args in chunk]
+  File "/home/ubuntu/asr/generate_noisy_librispeech.py", line 67, in apply_noise
+    s1, rate1 = sf.read(sound_path1)
+  File "/opt/conda/envs/asr/lib/python3.9/site-packages/soundfile.py", line 288, in read
+    data = f.read(frames, dtype, always_2d, fill_value, out)
+  File "/opt/conda/envs/asr/lib/python3.9/site-packages/soundfile.py", line 891, in read
+    out = self._create_empty_array(frames, always_2d, dtype)
+  File "/opt/conda/envs/asr/lib/python3.9/site-packages/soundfile.py", line 1323, in _create_empty_array
+    return np.empty(shape, dtype, order='C')
+ValueError: array is too big; `arr.size * arr.dtype.itemsize` is larger than the maximum possible size.
+"""
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/home/ubuntu/asr/generate_noisy_librispeech.py", line 79, in <module>
+    main(args)
+  File "/home/ubuntu/asr/generate_noisy_librispeech.py", line 49, in main
+    augment_noise(sound_path_libridd, sound_paths_tt)
+  File "/home/ubuntu/asr/generate_noisy_librispeech.py", line 60, in augment_noise
+    tqdm.contrib.concurrent.process_map(
+  File "/opt/conda/envs/asr/lib/python3.9/site-packages/tqdm/contrib/concurrent.py", line 105, in process_map
+    return _executor_map(ProcessPoolExecutor, fn, *iterables, **tqdm_kwargs)
+  File "/opt/conda/envs/asr/lib/python3.9/site-packages/tqdm/contrib/concurrent.py", line 51, in _executor_map
+    return list(tqdm_class(ex.map(fn, *iterables, chunksize=chunksize), **kwargs))
+  File "/opt/conda/envs/asr/lib/python3.9/site-packages/tqdm/std.py", line 1178, in __iter__
+    for obj in iterable:
+  File "/opt/conda/envs/asr/lib/python3.9/concurrent/futures/process.py", line 562, in _chain_from_iterable_of_lists
+    for element in iterable:
+  File "/opt/conda/envs/asr/lib/python3.9/concurrent/futures/_base.py", line 609, in result_iterator
+    yield fs.pop().result()
+  File "/opt/conda/envs/asr/lib/python3.9/concurrent/futures/_base.py", line 446, in result
+    return self.__get_result()
+  File "/opt/conda/envs/asr/lib/python3.9/concurrent/futures/_base.py", line 391, in __get_result
+    raise self._exception
+ValueError: array is too big; `arr.size * arr.dtype.itemsize` is larger than the maximum possible size.
+  0%|          | 0/8109 [00:00<?, ?it/s]  0%|          | 1/8109 [00:42<95:59:25, 42.62s/it] 25%|██▍       | 2001/8109 [00:43<01:33, 65.11it/s] 49%|████▉     | 4001/8109 [00:45<00:28, 141.86it/s]100%|██████████| 8109/8109 [00:45<00:00, 176.36it/s]
+Completed the creation of noisy dev-clean partition of LibriSpeech
+  0%|          | 0/7860 [00:00<?, ?it/s]  0%|          | 1/7860 [00:43<94:55:38, 43.48s/it] 38%|███▊      | 3001/7860 [00:44<00:50, 95.77it/s]100%|██████████| 7860/7860 [00:44<00:00, 177.10it/s]
+Completed the creation of noisy test-clean partition of LibriSpeech
+  0%|          | 0/8109 [00:00<?, ?it/s]  0%|          | 1/8109 [00:50<114:09:58, 50.69s/it] 25%|██▍       | 2001/8109 [00:50<01:49, 55.91it/s]  49%|████▉     | 4001/8109 [00:51<00:31, 131.93it/s]100%|██████████| 8109/8109 [00:51<00:00, 156.78it/s]
+Completed the creation of noisy dev-clean partition of LibriSpeech
