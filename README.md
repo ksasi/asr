@@ -94,6 +94,7 @@ Execute the below steps to generate **Noisy LibriSpeech** dataset
 
 Demo of **Automatic Speech Recognition on Noisy Data** can be executed by running `ASR_Demo.ipynb` ipython notebook in the demo folder
 
+![Demo_SC](demo_sc1.png)
 
 
 
