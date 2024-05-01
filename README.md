@@ -83,6 +83,12 @@ Execute the below steps to generate **Noisy LibriSpeech** dataset
 >nohup python finetune\_tsconformer.py \<root\_path\>/hparams/tsconformer\_large.yaml --data\_folder=\<root\_path\>/datasets/LibriSpeech >> \<root\_path\>/logs/finetune\_tsconformer.out &
 >
 
+#### Complexity for Conformer Vs TSConformer
+
+>cd code
+>
+>python maccounter\_asr.py >> \<root\_path\>/logs/flopcount.out
+>
 
 ### Demo 
 
